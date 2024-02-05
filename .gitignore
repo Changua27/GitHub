@@ -1,1 +1,5 @@
 *.jgp.jpg
+/All_keys
+.config/
+.gitconfig
+.lesshst
