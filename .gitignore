@@ -1,5 +1,10 @@
+#Ignora la imagen
 *.jgp.jpg
+
+#Ignora las llaves privadas y publicas
 /All_keys
+
+#Ignora todo lo relacionado con .git
 .config/
 .gitconfig
 .lesshst
