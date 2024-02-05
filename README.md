@@ -1,4 +1,4 @@
-#Changua27
+# Changua27
 
 ##### Este es mi proyecto y mi primer repositorio online con GitHub
 - Estoy aprendiendo a programar, y para mi es un placer que este en este repositorio 
